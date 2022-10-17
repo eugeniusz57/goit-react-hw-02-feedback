@@ -10,13 +10,11 @@ text-align: center;
 export const Title = styled.h1`
 font-size: 28px;
 margin-top: 20px;
-margin-bottom: 20px;
 `
 export const ListButton = styled.ul`
 display: flex;
 list-style: none;
 justify-content: center;
-margin: 20px 0;
 padding: 0;
 }
 `
@@ -40,7 +38,7 @@ border-radius: 4px;
 
 export const SecondTitle = styled.h2`
 font-size: 22px;
-margin: 20px 0;
+margin: 10px 0;
 `
 export const SatatisticsList = styled.ul`
 list-style: none;

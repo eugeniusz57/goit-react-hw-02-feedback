@@ -21,6 +21,7 @@ font-size: 18px;
     background-color: #10b4c1bd;
     color: #090e09;
     font-size: 20px;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 15%);
 }
 :first-letter{
     text-transform: uppercase;

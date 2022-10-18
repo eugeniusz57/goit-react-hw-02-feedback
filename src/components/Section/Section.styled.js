@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 export const Section = styled.section`
-padding: 20px 5px;
+padding: 10px 0px;
 `
 
 export const SectionsTitle = styled.h2`

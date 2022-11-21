@@ -5,7 +5,6 @@ display: flex;
 list-style: none;
 justify-content: center;
 padding: 0;
-}
 `
 
 export const ListButtonItem = styled.li`
